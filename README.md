@@ -6,7 +6,10 @@
 
 ---
 
-## <a id="ru"></a> 🇷🇺 Танец над Бездной
+<p align="center">
+  <img src="./media/cover-art/cover-ru.png" alt="Обложка книги Танец над Бездной" width="500"/>
+</p>
+
 
 <p>
   <img src="https://img.shields.io/badge/Статус-В разработке-blue?style=for-the-badge" alt="Статус: В разработке">
